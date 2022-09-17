@@ -1,0 +1,9 @@
+Three folders:
+
+DAN_TR: training code of the proposed DAN-TR network (Step 3 in the proposed training framework)
+
+LSTM_PL: LSTM training based on pesodu-labeled dataset (Step 2), and can also be used for initial training (Step 1) and final training (Step 5)
+
+Pred: validation/testing based on DAN-TR/LSTM network, and generation of pesudo-labeled dataset based on DAN-TR/LSTM network (dataset preparation for the next Step)
+
+Step 4 should be carried out manually (i.e., generating a pesudo-labeled with codes in "Pred" and use it as the training dataset of the next iteration)
