@@ -1,9 +1,14 @@
 Three folders:
 
-DAN_TR: training code of the proposed DAN-TR network (Step 3 in the proposed training framework)
-
-LSTM_PL: LSTM training based on pesodu-labeled dataset (Step 2), and can also be used for initial training (Step 1) and final training (Step 5)
-
-Pred: validation/testing based on DAN-TR/LSTM network, and generation of pesudo-labeled dataset based on DAN-TR/LSTM network (dataset preparation for the next Step)
+[1] DAN_TR: training code of the proposed DAN-TR network (Step 3 in the proposed training framework)
+[2] LSTM_PL: LSTM training based on pesodu-labeled dataset (Step 2), and can also be used for initial training (Step 1) and final training (Step 5)
+[3] Pred: validation/testing based on DAN-TR/LSTM network, and generation of pesudo-labeled dataset based on DAN-TR/LSTM network (dataset preparation for the next Step)
 
 Step 4 should be carried out manually (i.e., generating a pesudo-labeled with codes in "Pred" and use it as the training dataset of the next iteration)
+
+If you wish to use other networks in Step 5 (i.e., the UA-Seq2Seq network), the following link could be helpful:
+https://drive.google.com/drive/folders/1QdNRdmxWSbunN37_i4uduqzPepu-S6RT?usp=sharing (Google Drive)
+https://pan.baidu.com/s/1d8CkF8RCtn4wkqHuiFKLzA (password: se54)（Baidu Cloud）
+
+It should be noted that codes in the aforementioned links do not belong to this paper. It belongs to anther paper of our research group
+Xu, Y.J., Fei, Y.F., Huang, Y.L., Tian, Y., & Lu, X.Z. (2022, July). Advanced corrective training strategy for surrogating complex hysteretic behavior. Structures (Vol. 41, pp. 1792-1803)
