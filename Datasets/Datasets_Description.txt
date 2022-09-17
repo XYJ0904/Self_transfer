@@ -1,0 +1,14 @@
+Labeled dataset could be downloaded from:
+https://drive.google.com/drive/folders/1QdNRdmxWSbunN37_i4uduqzPepu-S6RT?usp=sharing (Google Drive)
+OR
+https://pan.baidu.com/s/1d8CkF8RCtn4wkqHuiFKLzA (password: se54)（Baidu Cloud）
+
+It should be noted that codes in the aforementioned links do not belong to this paper. It belongs to anther paper of our research group
+Xu, Y.J., Fei, Y.F., Huang, Y.L., Tian, Y., & Lu, X.Z. (2022, July). Advanced corrective training strategy for surrogating complex hysteretic behavior. Structures (Vol. 41, pp. 1792-1803)
+
+------------------
+
+Unlabeled dataset could be downloaded from:
+https://drive.google.com/file/d/1-QPGtnSfC9a38_olqrOdWwc3z4G1eCmJ/view?usp=sharing (Google Drive)
+OR
+https://pan.baidu.com/s/10bixCU_PICXXehE-MaWe_g (password: g33e) (Baidu Cloud) 
